@@ -1,0 +1,20 @@
+{
+  "name": "bulma",
+  "description": "Modern CSS framework based on Flexbox",
+  "type": "component",
+  "homepage": "http://bulma.io",
+  "authors": [
+    {
+       "name": "Jeremy Thomas (http://jgthms.com)",
+       "email": "bbxdesign@gmail.com",
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "flexbox",
+    "responsive",
+    "framework"
+  ]
+}
