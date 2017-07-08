@@ -1,5 +1,5 @@
 {
-  "name": "components/bulma",
+  "name": "components/bulma-base",
   "description": "Modern CSS framework based on Flexbox",
   "type": "component",
   "homepage": "http://bulma.io",

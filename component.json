@@ -1,5 +1,5 @@
 {
-  "name": "bulma",
+  "name": "bulma-base",
   "repo": "components/bulma-base",
   "version": "0.4.3",
   "description": "Modern CSS framework based on Flexbox",
