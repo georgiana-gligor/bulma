@@ -1,5 +1,5 @@
 {
-  "name": "bulma",
+  "name": "components/bulma",
   "description": "Modern CSS framework based on Flexbox",
   "type": "component",
   "homepage": "http://bulma.io",
@@ -16,5 +16,16 @@
     "flexbox",
     "responsive",
     "framework"
-  ]
+  ],
+  "extra": {
+    "component": {
+      "styles": [
+        "css/bulma.css"
+      ],
+      "files": [
+        "css/bulma.css",
+        "css/bulma.css.map"
+      ]
+    }
+  }
 }

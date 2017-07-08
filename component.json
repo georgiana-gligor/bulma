@@ -1,0 +1,17 @@
+{
+  "name": "bulma",
+  "repo": "components/bulma",
+  "version": "0.4.3",
+  "description": "Modern CSS framework based on Flexbox",
+  "homepage": "http://bulma.io",
+  "styles": [
+    "css/bulma.css"
+  ],
+  "files": [
+    "css/bulma.css",
+    "css/bulma.css.map"
+  ],
+  "license": [
+    "MIT"
+  ]
+}
